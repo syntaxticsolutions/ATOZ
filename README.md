@@ -1,2 +1,0 @@
-# ATOZ
-Food APP
